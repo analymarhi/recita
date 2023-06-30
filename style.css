@@ -1,9 +1,23 @@
 :root{
-    --cor-de-fundo:#FFF5EE;
+    --cor-de-fundo:#d9e6e4;
 }
 body{
     background-color: var(--cor-de-fundo);
+margin: 0px 30px 0px 30px;
 
 }
-h1{ 
-    background-color: 
+
+
+
+    
+
+.foto{
+    padding-left: 40%;
+}
+
+.receita{
+    font-size: 70%;
+}
+.receito{
+    font-size: 70%;
+}
